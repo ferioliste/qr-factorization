@@ -12,7 +12,7 @@ Check out the final report here: [`ferioli_project1.pdf`](./ferioli_project1.pdf
 * `code/seqTSQR.py` and `code/parallelTSQR.py` contain our implementations of the TSQR algorithm (sequentially and in parallel, respectively)
 
 ## How to run a test
-To setup a test modify direclty the file of the algorithm you want to run. If `save` is set to `True` the results of the test are saved in the csv file `testing/results.csv`. 
+To setup a test modify directly the file of the algorithm you want to run. If `save` is set to `True` the results of the test are saved in the csv file `testing/results.csv`. 
 To run a test, call
 ```
 python3 seqAlgorithm.py
